@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "_boot-taro-react_",
-  "description": "_boot-taro-react_",
+  "projectname": "liv-mobiles",
+  "description": "liv-mobiles",
   "appid": "touristappid",
   "setting": {
     "urlCheck": false,

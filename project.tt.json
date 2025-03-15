@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "_boot-taro-react_",
+  "projectname": "liv-mobiles",
   "appid": "testAppId",
   "setting": {
     "es6": false,

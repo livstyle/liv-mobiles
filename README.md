@@ -42,6 +42,8 @@
 
 ```bash
 pnpm install
+或者
+npx pnpm install
 ```
 
 ### 运行
